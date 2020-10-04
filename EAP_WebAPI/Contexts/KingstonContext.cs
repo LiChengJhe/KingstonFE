@@ -26,7 +26,7 @@ namespace EAP_WebAPI.Contexts
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=kingston.database.windows.net;Initial Catalog=Kingston;User ID=chengjhe;Password=Lcj810824");
+                optionsBuilder.UseSqlServer("Data Source=kingston.database.windows.net;Initial Catalog=Kingston;User ID=chengjhe;Password=XXXX");
             }
         }
 
