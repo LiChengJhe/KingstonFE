@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a45e47c7-55ea-4e6a-8081-5aebe16aee31/resourceGroups/TEST/providers/Microsoft.Web/sites/Fab-Dashborad",
+    "appService.deploySubpath": "fab-dashboard\\dist"
+}
